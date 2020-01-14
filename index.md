@@ -36,8 +36,8 @@ For anyone who wants to attend but feels out of depth in this, we will be lookin
 GAP Days Spring 2020 is organised by
 
 * [Ruth Hoffmann](https://rh347.host.cs.st-andrews.ac.uk)
-* [Chris Jefferson](https://caj.host.cs.st-andrews.ac.uk)
 * [Max Horn](https://www.quendi.de/en/math)
+* [Chris Jefferson](https://caj.host.cs.st-andrews.ac.uk)
 
 <!--
 
