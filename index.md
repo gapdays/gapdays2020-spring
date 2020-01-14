@@ -48,9 +48,9 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 
 GAP Days Spring 2029 will take place at the {{ site.location }}. Information
 about the exact location can be found on [the location
-page]({{ site.baseurl }}/location).
+page]({{ site.baseurl }}/location). -->
 
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
-email at [gapdays2020-spring@gapdays.de](mailto:gapdays2020-spring@gapdays.de). -->
+email at [gapdays2020-spring@gapdays.de](mailto:gapdays2020-spring@gapdays.de).
