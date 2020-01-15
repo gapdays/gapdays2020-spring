@@ -3,23 +3,6 @@ layout: page
 title: Participants
 ---
 
-
-| Name | Affiliation |
-|-------|-------|
-| Ruth Hoffmann | University of St Andrews |
-| Max Horn | University of Siegen |
-| Chris Jefferson | University of St Andrews | 
-| Alexander Konovalov | University of St Andrews |
-| Iryna Raievska | Institute of Mathematics of National Academy of Sciences (Kyiv)|
-| Maryna Raievska | Institute of Mathematics of National Academy of Sciences (Kyiv)|
-
-<!--
-
-<a href="{{ site.baseurl }}/images/group-photo-large.jpg">
-  <img alt="Group photo for GAP Days Spring 2019 in Halle. Click for larger
-  version" src="{{ site.baseurl }}/images/group-photo-small.jpg" /></a>
-*Photo by [Patrick Salfeld](http://conway1.mathematik.uni-halle.de/~salfeld/index-en.html).*
-
 <ol>
 {% for p in site.data.participants %}
   <li>
@@ -50,4 +33,3 @@ title: Participants
 </ul>
 
 {% endif %}
--->
