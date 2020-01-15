@@ -10,8 +10,8 @@ title: Participants
 | Max Horn | University of Siegen |
 | Chris Jefferson | University of St Andrews | 
 | Alexander Konovalov | University of St Andrews |
-| Iryna Raievska | Institute of Mathematics of National Academy of Sciences |
-| Maryna Raievska | Institute of Mathematics of National Academy of Sciences |
+| Iryna Raievska | Institute of Mathematics of National Academy of Sciences (Kyiv)|
+| Maryna Raievska | Institute of Mathematics of National Academy of Sciences (Kyiv)|
 
 <!--
 
