@@ -3,7 +3,15 @@ layout: page
 title: Participants
 ---
 
-Will be updated when registration opens.
+
+| Name | Affiliation |
+|-------|-------|
+| Ruth Hoffmann | University of St Andrews |
+| Max Horn | University of Siegen |
+| Chris Jefferson | University of St Andrews | 
+| Alexander Konovalov | University of St Andrews |
+| Iryna Raievska | Institute of Mathematics of National Academy of Sciences |
+| Maryna Raievska | Institute of Mathematics of National Academy of Sciences |
 
 <!--
 
