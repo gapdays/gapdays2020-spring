@@ -28,7 +28,7 @@ From Glasgow Airport there is the 500 Airport Express that will get you to the C
 From Dundee Airport is a 5 minute taxi drive away from the city centre/train station/bus station. Uber is not a thing in Dundee yet.
 
 <h3>Rail</h3>
-There is no train station in St Andrews, the nearest station is Leuchars, which has lies on the mainline between London, Edinburgh, Dundee and Aberdeen. There is a regular bus service from Leuchars to St Andrews, see below.
+There is no train station in St Andrews, the nearest station is Leuchars, which lies on the mainline between London, Edinburgh, Dundee and Aberdeen. There is a regular bus service from Leuchars to St Andrews, see below.
 
 Coming from Edinburgh, both Waverley and Haymarket are served on every train to St Andrews, the Gateway station connecting the airport to the Fife trains is served occasionally, please check [National Rail](https://www.nationalrail.co.uk/).
 
