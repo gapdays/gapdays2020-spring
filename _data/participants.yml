@@ -22,6 +22,9 @@
 
 - name: Markus Pfeiffer
   affiliation: ArangoDB
-  
+
 - name: Anna Sucker
+  affiliation: RWTH Aachen University
+
+- name: Lucas Wollenhaupt
   affiliation: RWTH Aachen University
