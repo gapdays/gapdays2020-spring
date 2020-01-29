@@ -10,9 +10,9 @@ Please note that this list will be updated on the go, as we find more things tha
 - install [Jekyll](https://jekyllrb.com) (may require you to install ruby first)
     - `gem install jekyll` if `gem` (the ruby package manager) is there
 - clone relevant repositories (please put all into the same parent directory):
-    - https://github.com/gap-system/Mixer
-    - https://github.com/gap-system/gap-distribution
-    - https://github.com/gap-system/GapWWW 
+    - <https://github.com/gap-system/Mixer>
+    - <https://github.com/gap-system/gap-distribution>
+    - <https://github.com/gap-system/GapWWW>
 - try to compile `Mixer`:
     ```
     cd Mixer
