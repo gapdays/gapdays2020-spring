@@ -9,11 +9,13 @@ title: Program
 The two main topics these GAP Days will tackle are:
 
 **GAP Webpage**
+and 
 **GAP Release Management System**
 
-<!-- Please note the resources that need to be obtained **BEFORE** the workshop [in this HACKMD note]( ). 
+
+Please note the resources that need to be obtained **BEFORE** the workshop are laid out on [the preparation page ]({{ site.baseurl }}/preparation).
 This note will also be updated as the workshop nears with more information and details about the various work packages.
--->
+
 
 ## Schedule
 Each day will be kicked off with short stand-up talks to update everyone on progress, issues and next steps.
