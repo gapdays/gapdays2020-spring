@@ -8,11 +8,14 @@ In preparation for these GAP Days please get your resources up to date.
 Please note that this list will be updated on the go, as we find more things that need to be prepared.
 
 - install [Jekyll](https://jekyllrb.com) (may require you to install ruby first)
-    - `gem install jekyll` if `gem` (the ruby package manager) is there
+    - `gem install jekyll`. If `gem` (the ruby package manager) is missing, install `ruby`.
 - clone relevant repositories (please put all into the same parent directory):
-    - <https://github.com/gap-system/Mixer>
-    - <https://github.com/gap-system/gap-distribution>
-    - <https://github.com/gap-system/GapWWW>
+    ```
+    git clone https://github.com/gap-system/Mixer
+    git clone https://github.com/gap-system/gap-distribution
+    git clone https://github.com/gap-system/GapWWW
+    ```
+
 - try to compile `Mixer`:
     ```
     cd Mixer
