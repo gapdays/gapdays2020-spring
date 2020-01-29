@@ -36,4 +36,4 @@ Please note that this list will be updated on the go, as we find more things tha
     ```
 - consider reading up on some things:
     - [Max' notes on GAP infrastructure](https://hackmd.io/EUtMx_2mRTaIYYlWSaVI6A)
-    - [README.jekyll.md](https://github.com/fingolfin/GapWWW/blob/mh/gh-pages/README.jekyll.md)
+    - [README.jekyll.md](https://github.com/gap-system/GapWWW/blob/jekyll/README.jekyll.md)
