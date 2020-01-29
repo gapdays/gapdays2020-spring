@@ -6,78 +6,57 @@ title: Program
 * __Start:__ Monday 23<sup>rd</sup> March 2020
 * __Finish:__ Friday 27<sup>th</sup> March 2020
 
-More info to come soon.
+The two main topics these GAP Days will tackle are:
 
-<!--
+** GAP Webpage **
+** GAP Release Management System **
 
-### Organisational notepad for the GAP Days
-
-[Link to the HackMD for GAP Days Spring
-2019](https://hackmd.io/9ctY1jNaTiOm2-eUUQOjlw).  In this notepad, we invite you
-to share organisational information, and details about what you want to work
-on/have worked on during the GAP Days.
-
-
-## Detailed schedule
-
-We will open with a meeting at 10am on Monday to coordinate plans for the week,
-and follow a pattern of "Standups" each day at around 9am and 4:30pm, to
-communicate what we plan to work on, and what we have worked on, respectively.
-We will close the meeting at around 3pm on Friday.
-
-- **Monday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 10:00: **Opening of the GAP Days**
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-  - 18:30: Workshop dinner at [House of India](https://house-of-india.de)
-
-- **Tuesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:15: Stand-up meeting
-  - 10:00–10:30: Talk by Leonard Soicher:
-  <br />&nbsp;&nbsp;
-  *“<a href="{{ site.baseurl }}/abstracts/soicher">Exploiting graph symmetry in the computation of chromatic number</a>”*
-  - 11:55: [Group photo]({{ site.baseurl }}/images/group-photo-large.jpg)
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-
-- **Wednesday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:15: Stand-up meeting
-  - 10:00–10:30: Talk by Vincent Delecroix:
-  <br />&nbsp;&nbsp;
-  *“<a href="{{ site.baseurl }}/abstracts/delecroix">Galois group of polynomials</a>”*
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 16:30: Stand-up meeting
-
-- **Thursday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:15: Stand-up meeting
-  - 10:00: Discussion about managing issues/PRs on `gap-system/gap`
-  - 11:00: Discussion about GAP infrastructure for
-           website &amp; hosting
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar/))*
-  - 14:00: Talk by Sergio Siccha (Room 1.02)
-  - 15:00: Discussion led by Chris Jefferson about BacktrackKit
-  - 16:30: Stand-up meeting
-
-- **Friday** (Room 5.09/5.10 in Von-Seckendorff-Platz 1)
-  - 09:15: Stand-up meeting
-  - 10:00–10:30: Opportunity for spontaneous short talk(s)
-  - 12:00 (ish): Lunch *(in the [Mensa](https://www.studentenwerk-halle.de/mensen-cafebars/mensen-in-halle/heidemensa-mit-cafebar))*
-  - 15:00: **Close of the GAP Days**
-
-
-## Topics and projects
-
-The overarching theme of this GAP Days will be GAP's infrastructure for
-computing with permutation groups, such as orbit and stabiliser algorithms, base
-and strong generating sets, partition backtrack for stabiliser, normaliser, and
-canonical images, chief series, Sylow subgroups, Schur multipliers and
-cohomology, and recognition methods for permutation groups.  If you have any
-queries or suggestions, then please do not hesitate to contact the organisers.
-
-1. __Overview of existing permutation group code in GAP__
-
-2. __Partition backtrack methods in the GAP library__
-
-3. __Recognition methods for large base groups__
-
+<!-- Please note the resources that need to be obtained **BEFORE** the workshop [in this HACKMD note]( ). 
+This note will also be updated as the workshop nears with more information and details about the various work packages.
 -->
+
+## Schedule
+Each day will be kicked off with short stand-up talks to update everyone on progress, issues and next steps.
+To avoid major conflicts and uncontrolled merges we ask for hourly commits/pushes and exchanges (also we are human, we can talk to each other).
+The official end of these GAP Days will be around 3pm on Friday (but for the hardcore GAPers you are welcome to stick around for longer). 
+This schedule is very flexible as it is highly dependent on the work progress, and any issues that might come up. 
+Thus in the "work" slots, there is freedom for impromptu discussions, talks or other formats of communication.
+
+The overall idea for the progress throughout the week will for everyone to start off with an overhaul of the webpage infrastructure, before splitting into separate groups working on the webpage and release management. 
+This is done so that the cross-over of some of the release mechanisms that involve the webpage (version number, package management etc.) are dealt with hand in hand.
+
+- **Sunday, 22nd March 2020** Inofficial Warmup/Pub/Meet Day
+  - 18:00: Meet at a pub (to be decided soon)
+
+- **Monday, 23rd March 2020** Webpage infrastructure day
+  - 10:00: ** Opening of the GAP Days **
+  - 10:10: Talks and discussion of what needs doing and where additional resources are
+  - 12:00(ish): Lunch
+  - 13:00(ish): More work
+  - 16:30(ish): End of Day
+
+- **Tuesday, 24th March 2020** Intertwine Release Management into Webpage
+  - 09:30: Standup Talks
+  - 12:00: Lunch
+  - 13:00: More work
+  - 16:30: EoD
+
+- **Wednesday, 25th March 2020** Independent work on release management and webpage
+  - 09:30: Standup Talks
+  - 12:00: Lunch
+  - 13:00: More work
+  - 16:30: EoD
+
+- **Thursday, 26th March 2020** Independent work on release management and webpage
+  - 09:30: Standup Talks
+  - 12:00: Lunch
+  - 13:00: Discussion of issues that need a decision
+  - 16:00: Standup talks from anyone who has an unfinished work packages
+  - 16:30: EoD
+
+- **Friday, 27th March 2020** Discussion of release of work
+  - 09:30: Discuss timeline or release/merge/integrate the work achieved
+  - 11:00: Work on unfinished work packages
+  - 12:00: Lunch
+  - 13:00: Release?
+  - 15:00: **End of GAP Days Spring 2020**
