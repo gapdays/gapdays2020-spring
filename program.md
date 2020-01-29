@@ -8,8 +8,8 @@ title: Program
 
 The two main topics these GAP Days will tackle are:
 
-** GAP Webpage **
-** GAP Release Management System **
+**GAP Webpage**
+**GAP Release Management System**
 
 <!-- Please note the resources that need to be obtained **BEFORE** the workshop [in this HACKMD note]( ). 
 This note will also be updated as the workshop nears with more information and details about the various work packages.
@@ -29,7 +29,7 @@ This is done so that the cross-over of some of the release mechanisms that invol
   - 18:00: Meet at a pub (to be decided soon)
 
 - **Monday, 23rd March 2020** Webpage infrastructure day
-  - 10:00: ** Opening of the GAP Days **
+  - 10:00: **Opening of the GAP Days**
   - 10:10: Talks and discussion of what needs doing and where additional resources are
   - 12:00(ish): Lunch
   - 13:00(ish): More work
