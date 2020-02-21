@@ -14,7 +14,11 @@ St Andrews <br/>
 KY16 9SX</a>
 
 <h2>Rooms</h2>
-We will confirm rooms within the department available to us soon.
+There will be signs hung around the Computer Science building.
+
+Monday, Tuesday, Thursday, Friday we are in Jack Cole 1.33A (upstairs).
+
+Wednesday (due to work in 1.33A) we will have to split up into two smaller rooms in Jack Cole, specifically rooms 0.30 and 0.37.
 
 <h2>Directions to St Andrews</h2>
 <h3>Air</h3>
