@@ -8,7 +8,7 @@ Please see below and the [program page]({{ site.url }}{{ site.baseurl }}/program
 <h2>Address</h2>
 <a href="https://goo.gl/maps/S7oBaf8uLbUFWMn79">
 School of Computer Science <br/>
-Jack Colde Building <br/>
+Jack Cole Building <br/>
 North Haugh <br/>
 St Andrews <br/>
 KY16 9SX</a>
@@ -16,9 +16,9 @@ KY16 9SX</a>
 <h2>Rooms</h2>
 There will be signs hung around the Computer Science building.
 
-Monday, Tuesday, Thursday, Friday we are in Jack Cole 1.33A (upstairs).
+Monday, Tuesday, Friday we are in Jack Cole 1.33A (upstairs).
 
-Wednesday (due to work in 1.33A) we will have to split up into two smaller rooms in Jack Cole, specifically rooms 0.30 and 0.37.
+Wednesday and Thursday (due to work in 1.33A) we will have to split up into two smaller rooms in Jack Cole, specifically rooms 0.30 and 0.37 (both downstairs).
 
 <h2>Directions to St Andrews</h2>
 <h3>Air</h3>
