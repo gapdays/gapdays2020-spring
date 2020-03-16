@@ -6,7 +6,7 @@ We apologise for any inconvenience this will create and should you need a formal
 
 The virtual GAP Days will be hosted using the following tools:
 - Slack <https://gap-system.slack.com/> for discussions, file exchange etc.
-- Jitsi Meet <https://jitsi.org> for talks, video and audio chat
+- Jitsi Meet <https://meet.jit.si/GAPDaysSpring2020> for talks, video and audio chat
 - HackMD <https://hackmd.io> for collaborative editing
 
 Should you not have access to https://gap-system.slack.com, please let us know!
