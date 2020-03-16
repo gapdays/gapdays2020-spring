@@ -4,11 +4,18 @@ After keeping a close eye on the spread of COVID-19 we have decided to move GAP 
 
 We apologise for any inconvenience this will create and should you need a formal confirmation that we have cancelled the event to receive reimbursements from your institutions please get in touch with us.
 
-The virtual GAP Days will be hosted through the gap-system slack in which we will create a dedicated gap-day and a jitsi meet that will be initiated there. 
+The virtual GAP Days will be hosted using the following tools:
+- Slack <https://gap-system.slack.com/> for discussions, file exchange etc.
+- Jitsi Meet <https://jitsi.org> for talks, video and audio chat
+- HackMD <https://hackmd.io> for collaborative editing
 
-Should you not have access to the gap-system slack, please let us know!
+Should you not have access to https://gap-system.slack.com, please let us know!
 
-jitsi is a browser (or app) based open-source video-conferencing system. The recommended browser for full (and best) functionality is Chrome or Chromium. You won't have to download anything (unless you don't have Chrome).
+jitsi is a browser based open-source video-conferencing system (there is also
+an app for Android and iOS). The recommended browser for full (and best) functionality is Chrome or Chromium. You won't have to download anything (unless you don't have Chrome).
+
+We strongly recommend that you try out all three tools before next week, to make sure
+they work.
 
 We are aware that with this handicap we might not be able to deliver the full impact GAP Days we hoped for, but we will still try to have the talks as planned, attempt to get a few things done next week and get the ball rolling with some crucial discussions.
 

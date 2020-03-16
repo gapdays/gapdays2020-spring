@@ -8,7 +8,7 @@ In preparation for these GAP Days please get your resources up to date.
 Please note that this list will be updated on the go, as we find more things that need to be prepared.
 
 ### GAP Days Virtual Preparation
-- get/check access to gap-system slack, in which there will be a dedicated GAP Days 2020 channel. If you do not have access to this slack please email us and we will invite you.
+- get/check access to [gap-system slack](https://gap-system.slack.com), in which there will be a dedicated GAP Days 2020 channel. If you do not have access to this slack please email us and we will invite you.
 
 - (optional) get Chrome or Chromium for the best functionality of jitsi, the video conferencing tool used.
 
