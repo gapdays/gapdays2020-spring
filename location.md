@@ -2,6 +2,10 @@
 layout: page
 title: Location
 ---
+<!-- The eleventh GAP Days are now **fully virtual** and run in Slack, jitsi and HackMD. See [the preparation page ]({{ site.baseurl }}/preparation) for more information! -->
+
+Below follows the old information which can be disregarded. 
+
 The eleventh GAP Days will take place in St Andrews in the [School of Computer Science](https://www.cs.st-andrews.ac.uk/) of the [University of St Andrews](https://www.st-andrews.ac.uk/).
 Please see below and the [program page]({{ site.url }}{{ site.baseurl }}/program) for the specific details about which rooms are available for our use.
 
@@ -16,9 +20,7 @@ KY16 9SX</a>
 <h2>Rooms</h2>
 There will be signs hung around the Computer Science building.
 
-Monday, Tuesday, Friday we are in Jack Cole 1.33A (upstairs).
-
-Wednesday and Thursday (due to work in 1.33A) we will have to split up into two smaller rooms in Jack Cole, specifically rooms 0.30 and 0.37 (both downstairs).
+We are settled in Jack Cole 0.37 next to the coffee machine.
 
 <h2>Directions to St Andrews</h2>
 <h3>Air</h3>
