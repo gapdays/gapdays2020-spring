@@ -39,7 +39,7 @@ GAP Days Spring 2020 is organised by
 * [Max Horn](https://www.quendi.de/en/math)
 * [Chris Jefferson](https://caj.host.cs.st-andrews.ac.uk)
 
-<!-- Please note that these GAP Days are the first fully virtual GAP Days and might not progress as expected. -->
+Please note that these GAP Days are the first fully virtual GAP Days and might not progress as expected.
 
 <!--
 

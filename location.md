@@ -2,7 +2,7 @@
 layout: page
 title: Location
 ---
-<!-- The eleventh GAP Days are now **fully virtual** and run in Slack, jitsi and HackMD. See [the preparation page ]({{ site.baseurl }}/preparation) for more information! -->
+The eleventh GAP Days are now **fully virtual** and run in Slack, jitsi and HackMD. See [the preparation page ]({{ site.baseurl }}/preparation) for more information!
 
 Below follows the old information which can be disregarded. 
 
