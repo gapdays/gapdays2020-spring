@@ -40,9 +40,9 @@ Note that we have removed "fixed" meal times.
   - 16:30(ish): End of Day
 
 - **Tuesday, 24th March 2020** Intertwine Release Management into Webpage
-  - 09:30: Talks (TBA)
-    <!-- - 09:30: Alex Konovalov "GAP Release Process" -->
-    <!-- - 09:45: Alex Konovalov "GAP Package Management" -->
+  - 09:30: Talks
+    - 09:30: Alex Konovalov "GAP Release Process"
+    - 09:45: Alex Konovalov "GAP Package Management"
   - 10:00: Chris Jefferson "Why Windows is Special"
   - 10:15: Discussion over "Ideal Release Management" [HackMD Note](https://hackmd.io/@rIiSpwN0QGCbqBK0N6bl5Q/SJHzYQar8)
   - 11:00: Work
