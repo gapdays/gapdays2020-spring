@@ -36,15 +36,15 @@ Note that we have removed "fixed" meal times.
   - 9:31: Organising everyone with a decent jitsi setup
   - 10:00: Talks and discussion of what needs doing and where additional resources are
     - 10:00: Max Horn "GAP Webpage Infrastructure Overhaul"
-    - 10:15: Ruth Hoffmann "GAP Webpage Content and Design"
+    - 10:30: Ruth Hoffmann "GAP Webpage Content and Design"
   - 16:30(ish): End of Day
 
 - **Tuesday, 24th March 2020** Intertwine Release Management into Webpage
   - 09:30: Talks
     - 09:30: Alex Konovalov "GAP Release Process"
-    - 09:45: Alex Konovalov "GAP Package Management"
-  - 10:00: Chris Jefferson "Why Windows is Special"
-  - 10:15: Discussion over "Ideal Release Management" [HackMD Note](https://hackmd.io/@rIiSpwN0QGCbqBK0N6bl5Q/SJHzYQar8)
+    - 10:00: Alex Konovalov "GAP Package Management"
+  - 10:30: Chris Jefferson "Why Windows is Special"
+  - 11:00: Discussion over "Ideal Release Management" [HackMD Note](https://hackmd.io/@rIiSpwN0QGCbqBK0N6bl5Q/SJHzYQar8)
   - 11:00: Work
   - 16:30: EoD
 
