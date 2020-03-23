@@ -36,7 +36,7 @@ Note that we have removed "fixed" meal times.
   - 9:31: Organising everyone with a decent jitsi setup
   - 10:00: Talks and discussion of what needs doing and where additional resources are
     - 10:00: Max Horn "GAP Webpage Infrastructure Overhaul" [(slides)]({{ site.baseurl }}/slides/Horn-Webpage-Infrastructure.pdf)
-    - 10:30: Ruth Hoffmann "GAP Webpage Content and Design"
+    - 10:30: Ruth Hoffmann "GAP Webpage Content and Design" [(slides)]({{ site.baseurl }}/slides/Hoffmann-Webpage-Contents.pdf)
   - 16:30(ish): End of Day
 
 - **Tuesday, 24th March 2020** Intertwine Release Management into Webpage
