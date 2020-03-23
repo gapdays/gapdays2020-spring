@@ -3,13 +3,14 @@
 
 - name: Max Horn
   affiliation: University of Siegen
-  #links:
-  #  "GitHub: fingolfin": https://github.com/fingolfin
+  links:
+    "GitHub: fingolfin": https://github.com/fingolfin
+    "slides": "../slides/Horn-Webpage-Infrastructure.pdf"
 
 - name: Chris Jefferson
   affiliation: University of St Andrews
-  #links:
-  #  "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
+  links:
+    "GitHub: ChrisJefferson": https://github.com/ChrisJefferson
 
 - name: Alexander Konovalov
   affiliation: University of St Andrews

@@ -35,7 +35,7 @@ Note that we have removed "fixed" meal times.
   - 9:30: **Opening of the GAP Days**
   - 9:31: Organising everyone with a decent jitsi setup
   - 10:00: Talks and discussion of what needs doing and where additional resources are
-    - 10:00: Max Horn "GAP Webpage Infrastructure Overhaul"
+    - 10:00: Max Horn "GAP Webpage Infrastructure Overhaul" [(slides)]({{ site.baseurl }}/slides/Horn-Webpage-Infrastructure.pdf)
     - 10:30: Ruth Hoffmann "GAP Webpage Content and Design"
   - 16:30(ish): End of Day
 
