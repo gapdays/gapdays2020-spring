@@ -43,20 +43,22 @@ Note that we have removed "fixed" meal times.
   - 09:30: Talks
     - 09:30: Alex Konovalov "GAP Release Process"
     - 10:00: Alex Konovalov "GAP Package Management"
-  - 10:30: Chris Jefferson "Why Windows is Special"
+    - 10:30: Chris Jefferson "Why Windows is Special"
   - 11:00: Discussion over "Ideal Release Management" [HackMD Note](https://hackmd.io/@rIiSpwN0QGCbqBK0N6bl5Q/SJHzYQar8)
-  - 11:00: Work
+  - 12:00: Work
+  - 16:00: Touch base via jitsi
   - 16:30: EoD
 
 - **Wednesday, 25th March 2020** Independent work on release management and webpage
-  - 09:30: Catch-up and discussions
+  - 09:30: Discussions and plan for the day
   - 10:00: Work
+  - 16:00: Touch base via jitsi
   - 16:30: EoD
 
 - **Thursday, 26th March 2020** Independent work on release management and webpage
-  - 09:30: Catch-up and discussions
+  - 09:30: Discussions and plan for the day
   - 10:00: Work
-  - 16:00: Standup talks from anyone who has an unfinished work packages
+  - 15:30: Standup talks from anyone who has an unfinished work packages
   - 16:30: EoD
 
 - **Friday, 27th March 2020** Discussion of release of work
